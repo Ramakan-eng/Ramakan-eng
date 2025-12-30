@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Ramakant Sahu
 
-<!--
-**Ramakan-eng/Ramakan-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | GenAI • RAG • Agentic AI
 
-Here are some ideas to get you started:
+🚀 Final-year B.Tech CSE student passionate about building real-world AI systems using  
+Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+- 🎓 B.Tech CSE (Final Semester)
+- 🤖 Focused on **AI Engineering, GenAI & LLM-based systems**
+- 🧠 Hands-on with **RAG pipelines, vector databases, and AI agents**
+- 💼 Internship experience as **AI / Data Science Developer**
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Core**
+- Python, SQL
+- Data Structures & OOP (learning-focused)
+
+**Machine Learning & AI**
+- Machine Learning (Regression, Classification)
+- Deep Learning (CNN, basics)
+- NLP & Transformers
+
+**Generative AI**
+- LLMs (OpenAI / Hugging Face)
+- LangChain, LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Agents
+
+**Data & Tools**
+- Pandas, NumPy, Scikit-learn
+- ChromaDB / FAISS
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+🔹 **CourtListener RAG-based Legal Assistant**  
+> Scrapes legal case data, stores embeddings in vector DB, and answers user queries using RAG.
+
+🔹 **Salon Chatbot (RAG-based)**  
+> AI chatbot for customer queries using document retrieval + LLMs.
+
+🔹 **Machine Learning Projects**
+- Loan Prediction
+- Logistic Regression
+- Decision Tree
+- Regression Models
+
+---
+
+## 🌱 Currently Learning
+- Advanced RAG architectures
+- Agentic AI workflows
+- LangGraph & LangSmith
+- FastAPI for AI backends
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: ramakantsahu895@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ramakant-sahu-3608002ab  
+- 🧑‍💻 GitHub: https://github.com/Ramakan-eng
+
+---
+
+⭐ *Building consistently. Learning publicly. Improving daily.*
