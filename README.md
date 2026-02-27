@@ -71,6 +71,8 @@ Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
 - 💼 LinkedIn: https://www.linkedin.com/in/ramakant-sahu-3608002ab  
 - 🧑‍💻 GitHub: https://github.com/Ramakan-eng
 
+## My Resume 
+- Resume : https://drive.google.com/file/d/16rRDJlwelUc6gJFXLzDPytUbfO6CS-0l/view?usp=sharing
 ---
 
 ⭐ *Building consistently. Learning publicly. Improving daily.*
