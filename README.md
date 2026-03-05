@@ -72,7 +72,7 @@ Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
 - 🧑‍💻 GitHub: https://github.com/Ramakan-eng
 
 ## My Resume 
-- Resume link : https://drive.google.com/file/d/16rRDJlwelUc6gJFXLzDPytUbfO6CS-0l/view?usp=sharing
+- Resume link : https://drive.google.com/file/d/1NnO-U1EIA9QUSehueiwLEGj0d89Rbmor/view
 ---
 
 ⭐ *Building consistently. Learning publicly. Improving daily.*
