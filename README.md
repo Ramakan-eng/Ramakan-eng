@@ -8,22 +8,22 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an **AI Software Developer** with **1+ year of hands-on experience** building production-grade **Generative AI systems**, **LLM-powered applications**, and **multi-agent workflows**. Currently working at **CodeGrameen** as an AI Developer, I specialize in creating intelligent automation solutions using cutting-edge AI models and frameworks.
 
-🎯 **Currently seeking full-time opportunities** as an **AI Engineer / GenAI Engineer** to build impactful AI products.
+ **Currently seeking full-time opportunities** as an **AI Engineer / GenAI Engineer** to build impactful AI products.
 
-### 💼 What I Do
-- 🤖 Build **RAG (Retrieval-Augmented Generation)** pipelines with LangChain, LangGraph, FAISS & ChromaDB
-- 🔗 Design **Agentic AI workflows** using n8n, CrewAI, and custom orchestration
-- 🌐 Develop scalable **backend APIs** with FastAPI & Django for AI-powered applications
-- 🧠 Integrate **GPT-4, Claude 3.5, Gemini** via Azure OpenAI & Anthropic APIs
-- 📊 Implement **Vector Search**, semantic retrieval, and intelligent document processing
+###  What I Do
+-  Build **RAG (Retrieval-Augmented Generation)** pipelines with LangChain, LangGraph, FAISS & ChromaDB
+-  Design **Agentic AI workflows** using n8n, CrewAI, and custom orchestration
+-  Develop scalable **backend APIs** with FastAPI & Django for AI-powered applications
+-  Integrate **GPT-4, Claude 3.5, Gemini** via Azure OpenAI & Anthropic APIs
+-  Implement **Vector Search**, semantic retrieval, and intelligent document processing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,9 +56,9 @@ I'm an **AI Software Developer** with **1+ year of hands-on experience** buildin
 
 ---
 
-## 💡 Featured Projects
+##  Featured Projects
 
-### 🤖 Sprint Planning & Project Management Agent
+###  Sprint Planning & Project Management Agent
 [![View Workflow](https://img.shields.io/badge/View_Workflow-n8n-FF6D5A?style=flat&logo=n8n)](https://github.com/Ramakan-eng/N8N/blob/main/Sprint_planning_agent_1.json)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Ramakan-eng/N8N)
 
@@ -75,76 +75,76 @@ Fully automated AI-driven sprint planning system that intelligently:
 
 ---
 
-### ⚠️ Project Risk Detection & PM Notification Agent
+###  Project Risk Detection & PM Notification Agent
 [![View Workflow](https://img.shields.io/badge/View_Workflow-n8n-FF6D5A?style=flat&logo=n8n)](https://github.com/Ramakan-eng/N8N/blob/main/Risk-Detection-PM-Notification.json)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Ramakan-eng/N8N)
 
 **Tech Stack:** n8n | OpenAI GPT-4 | Risk Analysis | Automated Alerts
 
 Intelligent project management workflow that:
-- 🔍 Detects project risks in real-time (delays, blockers, anomalies)
-- 🤖 Uses GPT-4 for AI-powered risk analysis
-- 📧 Sends actionable alerts to project managers
-- 📊 Provides recommendations based on sprint data
-- ⚡ Enables proactive risk mitigation
+-  Detects project risks in real-time (delays, blockers, anomalies)
+-  Uses GPT-4 for AI-powered risk analysis
+-  Sends actionable alerts to project managers
+-  Provides recommendations based on sprint data
+-  Enables proactive risk mitigation
 
 **Business Impact:** Early risk detection reduced project delays by 45%
 
 ---
 
-### ⚖️ CourtListener RAG Legal Research Chatbot
+###  CourtListener RAG Legal Research Chatbot
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Ramakan-eng/study_buddy_ai_chatbot)
 [![Live Demo](https://img.shields.io/badge/Demo-Coming_Soon-success?style=flat)]()
 
 **Tech Stack:** LangChain | FAISS | OpenAI API | FastAPI | Python
 
 Production-ready RAG application featuring:
-- 📚 Semantic search across **100K+ legal documents**
-- 🔍 OpenAI embeddings with FAISS vector store
-- ⚡ FastAPI backend with RESTful endpoints
-- 💬 Context-aware legal research assistance
-- 🎯 High-precision document retrieval
+-  Semantic search across **100K+ legal documents**
+-  OpenAI embeddings with FAISS vector store
+-  FastAPI backend with RESTful endpoints
+-  Context-aware legal research assistance
+-  High-precision document retrieval
 
 **Use Cases:** Legal research, case law analysis, precedent discovery
 
 ---
 
-### 💇 Salon Assistant Chatbot
+###  Salon Assistant Chatbot
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Ramakan-eng/Salon_bot)
 
 **Tech Stack:** LLMs | RAG | Python | REST API | LangChain
 
 AI-powered customer service bot with:
-- 📅 Automated appointment booking and management
-- 💬 Intelligent FAQ handling with context retention
-- 💡 Personalized service recommendations
-- 🔗 RESTful API integration
-- 📊 Customer interaction analytics
+-  Automated appointment booking and management
+-  Intelligent FAQ handling with context retention
+-  Personalized service recommendations
+-  RESTful API integration
+-  Customer interaction analytics
 
 **Business Impact:** Reduced customer service workload by 60%, improved booking efficiency
 
 ---
 
-### 🏢 Truck Management System (TMS) Backend
+###  Truck Management System (TMS) Backend
 **Tech Stack:** FastAPI | Python | SQL/NoSQL | Azure | Docker
 
 Enterprise-grade backend system for logistics management:
-- 🚚 Real-time truck tracking and fleet management
-- 📊 Data processing pipelines for route optimization
-- 🔐 Secure authentication and authorization
-- 📈 Analytics and reporting APIs
-- ⚡ High-performance database architecture
+-  Real-time truck tracking and fleet management
+-  Data processing pipelines for route optimization
+-  Secure authentication and authorization
+-  Analytics and reporting APIs
+-  High-performance database architecture
 
 **Current Role:** Lead Backend Developer at CodeGrameen
 
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 **B.Tech – Computer Science & Engineering** | RGPV University, Bhopal | 2022-2026 | **CGPA: 8.0/10**
 
-### 📜 Certifications
+###  Certifications
 - ✅ **Oracle Cloud Infrastructure 2025 AI Foundations Associate (OCI)** - Oracle
 - ✅ **SQL Intermediate** – HackerRank
 - ✅ **ML & Image Processing** – Naresh i Technologies
@@ -152,9 +152,9 @@ Enterprise-grade backend system for logistics management:
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🚀 AI Software Developer | CodeGrameen | Oct 2024 – Present
+###  AI Software Developer | CodeGrameen | Oct 2024 – Present
 **Location:** Rewari, Haryana (On-site)
 
 **Key Achievements:**
@@ -164,7 +164,7 @@ Enterprise-grade backend system for logistics management:
 - Architected backend for Truck Management System (TMS) using FastAPI
 - Implemented semantic search and intelligent document processing pipelines
 
-### 📚 Data Science & AI Trainee | Naresh i Technologies | Aug 2024 – Apr 2025
+###  Data Science & AI Trainee | Naresh i Technologies | Aug 2024 – Apr 2025
 **Location:** Hyderabad, Telangana
 
 **Training Focus:**
@@ -174,9 +174,9 @@ Enterprise-grade backend system for logistics management:
 
 ---
 
-## 🔥 What Makes Me Different
+##  What Makes Me Different
 
-### 🎯 My Tech Arsenal
+###  My Tech Arsenal
 
 **AI Models & APIs**
 - GPT-4, Claude 3.5, Gemini 1.5 Pro, Llama 3, Mistral
@@ -193,27 +193,27 @@ Enterprise-grade backend system for logistics management:
 **Cloud Platforms**
 - Azure OpenAI, Oracle Cloud (OCI - Certified), AWS
 
-### 🚀 Core Specializations
+###  Core Specializations
 
 | Area | Expertise |
 |------|-----------|
-| 🤖 RAG Pipelines | Production-grade retrieval systems with LangChain + FAISS |
-| 🔗 Agentic AI | Multi-agent workflows using n8n, CrewAI |
-| 💡 Prompt Engineering | Advanced prompting strategies for GPT-4, Claude |
-| 🔍 Vector Search | Semantic search and document retrieval at scale |
-| ⚡ Multi-Agent Systems | Orchestrating autonomous AI agents |
+|  RAG Pipelines | Production-grade retrieval systems with LangChain + FAISS |
+|  Agentic AI | Multi-agent workflows using n8n, CrewAI |
+|  Prompt Engineering | Advanced prompting strategies for GPT-4, Claude |
+|  Vector Search | Semantic search and document retrieval at scale |
+|  Multi-Agent Systems | Orchestrating autonomous AI agents |
 
-## 📈 Current Focus Areas
+##  Current Focus Areas
 
-- 🎯 **Agentic AI Systems** - Building autonomous multi-agent workflows
-- 🔍 **Advanced RAG** - Optimizing retrieval systems for production
-- ⚡ **LLM Optimization** - Prompt engineering and fine-tuning
-- 🌐 **Scalable AI APIs** - Cloud-native architecture with FastAPI
-- 🤖 **AI Automation** - n8n workflows for intelligent process automation
+-  **Agentic AI Systems** - Building autonomous multi-agent workflows
+-  **Advanced RAG** - Optimizing retrieval systems for production
+-  **LLM Optimization** - Prompt engineering and fine-tuning
+-  **Scalable AI APIs** - Cloud-native architecture with FastAPI
+-  **AI Automation** - n8n workflows for intelligent process automation
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm **actively seeking full-time AI Engineer / GenAI Engineer roles**. If you're building the next generation of AI products or need someone who can:
 
