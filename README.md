@@ -1,4 +1,4 @@
-# Hi there, I'm Ramakant Sahu 👋
+# Hi , I'm Ramakant Sahu 
 
 ### AI Engineer | GenAI Specialist | Building Intelligent Systems with LLMs & Agentic AI
 
@@ -8,22 +8,22 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an **AI Software Developer** with **1+ year of hands-on experience** building production-grade **Generative AI systems**, **LLM-powered applications**, and **multi-agent workflows**. Currently working at **CodeGrameen** as an AI Developer, I specialize in creating intelligent automation solutions using cutting-edge AI models and frameworks.
 
-🎯 **Currently seeking full-time opportunities** as an **AI Engineer / GenAI Engineer** to build impactful AI products.
+ **Currently seeking full-time opportunities** as an **AI Engineer / GenAI Engineer** to build impactful AI products.
 
-### 💼 What I Do
-- 🤖 Build **RAG (Retrieval-Augmented Generation)** pipelines with LangChain, LangGraph, FAISS & ChromaDB
-- 🔗 Design **Agentic AI workflows** using n8n, CrewAI, and custom orchestration
-- 🌐 Develop scalable **backend APIs** with FastAPI & Django for AI-powered applications
-- 🧠 Integrate **GPT-4, Claude 3.5, Gemini** via Azure OpenAI & Anthropic APIs
-- 📊 Implement **Vector Search**, semantic retrieval, and intelligent document processing
+###  What I Do
+-  Build **RAG (Retrieval-Augmented Generation)** pipelines with LangChain, LangGraph, FAISS & ChromaDB
+-  Design **Agentic AI workflows** using n8n, CrewAI, and custom orchestration
+-  Develop scalable **backend APIs** with FastAPI & Django for AI-powered applications
+-  Integrate **GPT-4, Claude 3.5, Gemini** via Azure OpenAI & Anthropic APIs
+-  Implement **Vector Search**, semantic retrieval, and intelligent document processing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,37 +56,37 @@ I'm an **AI Software Developer** with **1+ year of hands-on experience** buildin
 
 ---
 
-## 💡 Featured Projects
+##  Featured Projects
 
-### 🤖 [Sprint Planning & Project Management Agent](https://github.com/Ramakan-eng/N8N/Sprint_planning_agent_1.json)
+###  [Sprint Planning & Project Management Agent](https://github.com/Ramakan-eng/N8N/Sprint_planning_agent_1.json)
 **Tech:** n8n | OpenAI GPT-4 | Webhook Triggers | Jira/Notion API
 
 Fully automated AI-driven sprint planning system that intelligently assigns tasks, sets priorities, and updates project boards. Integrated GPT-4 for parsing requirements and generating sprint backlogs with real-time team notifications.
 
 ---
 
-### ⚠️ [Project Risk Detection & PM Notification Agent](https://github.com/Ramakan-eng/N8N/Risk-Detection-PM-Notification)
+###  [Project Risk Detection & PM Notification Agent](https://github.com/Ramakan-eng/N8N/Risk-Detection-PM-Notification)
 **Tech:** n8n | OpenAI GPT-4 | Risk Analysis | Automated Alerts
 
 Intelligent workflow that detects project risks in real-time and sends actionable alerts to project managers. Uses GPT-4 for analyzing task delays, blockers, and sprint anomalies.
 
 ---
 
-### ⚖️ [CourtListener RAG Legal Research Chatbot](https://github.com/Ramakan-eng/study_buddy_ai_chatbot)
+###  [CourtListener RAG Legal Research Chatbot](https://github.com/Ramakan-eng/study_buddy_ai_chatbot)
 **Tech:** LangChain | FAISS | OpenAI API | FastAPI
 
 RAG-based legal research chatbot enabling semantic retrieval across 100K+ legal documents. Built with OpenAI embeddings, FAISS vector store, and exposed via FastAPI backend for production use.
 
 ---
 
-### 💇 [Salon Assistant Chatbot](https://github.com/Ramakan-eng/Salon_bot)
+###  [Salon Assistant Chatbot](https://github.com/Ramakan-eng/Salon_bot)
 **Tech:** LLMs | RAG | Python | REST API
 
 AI-powered salon assistant handling appointment booking, FAQs, and personalized service recommendations via LLM + RAG pipeline with RESTful API integration.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Ramakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramakan-eng&show_icons=true&theme=radical)
 
@@ -94,18 +94,18 @@ AI-powered salon assistant handling appointment booking, FAQs, and personalized 
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 **B.Tech – Computer Science & Engineering** | RGPV University, Bhopal | 2022-2026 | CGPA: 8.0/10
 
-### 📜 Certifications
+###  Certifications
 - ✅ **Oracle Cloud Infrastructure 2025 AI Foundations Associate (OCI)**
 - ✅ **SQL Intermediate** – HackerRank
 - ✅ **ML & Image Processing** – Naresh i Technologies
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### AI Software Developer | CodeGrameen | Oct 2024 – Present
 Building production-grade RAG applications, agentic AI workflows, and backend systems for intelligent automation.
