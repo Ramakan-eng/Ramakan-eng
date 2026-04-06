@@ -137,18 +137,6 @@ Enterprise-grade backend system for logistics management:
 
 **Current Role:** Lead Backend Developer at CodeGrameen
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramakan-eng&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramakan-eng&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakan-eng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
@@ -188,39 +176,32 @@ Enterprise-grade backend system for logistics management:
 
 ## 🔥 What Makes Me Different
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Ramakant Sahu"
-        self.role = "AI Software Developer"
-        self.experience = "1+ year production experience"
-        
-    def skills(self):
-        return {
-            "ai_models": ["GPT-4", "Claude 3.5", "Gemini", "Llama 3"],
-            "frameworks": ["LangChain", "LangGraph", "CrewAI", "n8n"],
-            "backend": ["FastAPI", "Django REST", "RESTful APIs"],
-            "databases": ["FAISS", "ChromaDB", "Pinecone", "MySQL"],
-            "cloud": ["Azure OpenAI", "OCI", "AWS"],
-            "specialization": [
-                "RAG Pipelines",
-                "Agentic AI Workflows",
-                "Multi-Agent Systems",
-                "Prompt Engineering",
-                "Vector Search"
-            ]
-        }
-    
-    def current_focus(self):
-        return [
-            "Building production-ready AI products",
-            "Optimizing LLM performance",
-            "Scaling multi-agent systems",
-            "Cloud-native AI architecture"
-        ]
-```
+### 🎯 My Tech Arsenal
 
----
+**AI Models & APIs**
+- GPT-4, Claude 3.5, Gemini 1.5 Pro, Llama 3, Mistral
+
+**LLM Frameworks & Orchestration**
+- LangChain, LangGraph, CrewAI, n8n Workflow Automation
+
+**Backend Development**
+- FastAPI, Django REST Framework, RESTful APIs
+
+**Vector Databases & Search**
+- FAISS, ChromaDB, Pinecone, MySQL
+
+**Cloud Platforms**
+- Azure OpenAI, Oracle Cloud (OCI - Certified), AWS
+
+### 🚀 Core Specializations
+
+| Area | Expertise |
+|------|-----------|
+| 🤖 RAG Pipelines | Production-grade retrieval systems with LangChain + FAISS |
+| 🔗 Agentic AI | Multi-agent workflows using n8n, CrewAI |
+| 💡 Prompt Engineering | Advanced prompting strategies for GPT-4, Claude |
+| 🔍 Vector Search | Semantic search and document retrieval at scale |
+| ⚡ Multi-Agent Systems | Orchestrating autonomous AI agents |
 
 ## 📈 Current Focus Areas
 
