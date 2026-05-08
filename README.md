@@ -1,6 +1,6 @@
 # Hi , I'm Ramakant Sahu 
 
-### AI Engineer | GenAI Specialist | Building Intelligent Systems with LLMs & Agentic AI
+### AI Engineer | GenAI  | Building Intelligent Systems with LLMs & Agentic AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ramakant-sahu-3608002ab/)
 [![Email](https://img.shields.io/badge/Email-ramakantsahu895%40gmail.com-red)](mailto:ramakantsahu895@gmail.com)
