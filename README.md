@@ -154,7 +154,7 @@ Enterprise-grade backend system for logistics management:
 
 ##  Professional Experience
 
-###  AI Software Developer | CodeGrameen | Oct 2024 – Present
+###  AI Software Developer | CodeGrameen | Oct 2025 – Present
 **Location:** Rewari, Haryana (On-site)
 
 **Key Achievements:**
